@@ -31,9 +31,9 @@
 
 El Politécnico Amador Rafaela Ybarra es una institución educativa comprometida con la excelencia académica y la formación integral de sus estudiantes. Desde nuestra fundación, hemos buscado fomentar el desarrollo de habilidades técnicas, científicas y humanísticas en un entorno que promueva la innovación y el pensamiento crítico.
 
-### Contenidos del Repositorio
+### Contenidos de la organización
 
-En este repositorio, podrás encontrar una variedad de recursos y proyectos, incluyendo, pero no limitado a:
+Aquí podrás encontrar una variedad de recursos y proyectos, incluyendo, pero no limitado a:
 
 - **Proyectos Estudiantiles**: Trabajos prácticos, proyectos de investigación y desarrollos tecnológicos realizados por nuestros estudiantes.
   
