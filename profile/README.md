@@ -1,11 +1,11 @@
 <h1 align="center">
-    <a href="https://amplication.com/#gh-light-mode-only">
+    <a href="https://pomaray.edu.do/#gh-light-mode-only">
     <img src="https://avatars.githubusercontent.com/u/146970277?s=200&v=4>
     </a>
 </h1>
 
 <p align="center">
-  <i align="center">Centro Educativo de excelencia Politécnico Madre Rafaela 🚀</i>
+  <i align="center">Centro Educativo de excelencia Politécnico Madre Rafaela  Ybarra🚀</i>
 </p>
 
 <h4 align="center">
@@ -25,7 +25,7 @@
     </a>
 </p>
 
-¡Bienvenido al repositorio oficial del Politécnico Amador Rafaela Ybarra en GitHub! Aquí encontrarás una variedad de proyectos, recursos y materiales relacionados con la educación, la tecnología y la innovación desarrollados por nuestra institución.
+¡Bienvenido al repositorio oficial del Politécnico Madre Rafaela Ybarra en GitHub! Aquí encontrarás una variedad de proyectos, recursos y materiales relacionados con la educación, la tecnología y la innovación desarrollados por nuestra institución.
 
 ### Acerca de nosotros
 
