@@ -29,7 +29,7 @@
 
 ### Acerca de nosotros
 
-El Politécnico Amador Rafaela Ybarra es una institución educativa comprometida con la excelencia académica y la formación integral de sus estudiantes. Desde nuestra fundación, hemos buscado fomentar el desarrollo de habilidades técnicas, científicas y humanísticas en un entorno que promueva la innovación y el pensamiento crítico.
+El Politécnico Madre Rafaela Ybarra es una institución educativa comprometida con la excelencia académica y la formación integral de sus estudiantes. Desde nuestra fundación, hemos buscado fomentar el desarrollo de habilidades técnicas, científicas y humanísticas en un entorno que promueva la innovación y el pensamiento crítico.
 
 ### Contenidos de la organización
 
