@@ -62,7 +62,7 @@ Aquí podrás encontrar una variedad de recursos y proyectos, incluyendo, pero n
 <a href="https://github.com/Aethan-oss"><img src="https://avatars.githubusercontent.com/u/147565202?v=4" title="Aethan-oss" width="50" height="50"></a>
 <a href="https://github.com/Almarante12"><img src="https://avatars.githubusercontent.com/u/149071635?v=4" title="Almarante12" width="50" height="50"></a>
 <a href="https://github.com/Beelexpy"><img src="https://avatars.githubusercontent.com/u/147563711?v=4" title="Beelexpy" width="50" height="50"></a>
-<a href="https://github.com/Drafty237"><img src="https://avatars.githubusercontent.com/u/147564544?v=4" title="Drafty237" width="50" height="50"></a>
+<a href="https://github.com/Adielsg"><img src="https://avatars.githubusercontent.com/u/147564544?v=4" title="Adielsg" width="50" height="50"></a>
 <a href="https://github.com/eliasdrm"><img src="https://avatars.githubusercontent.com/u/114700694?v=4" title="eliasdrm" width="50" height="50"></a>
 <a href="https://github.com/katia-tsx"><img src="https://avatars.githubusercontent.com/u/123526476?v=4" title="katia-tsx" width="50" height="50"></a>
 <a href="https://github.com/NombreAf"><img src="https://avatars.githubusercontent.com/u/86320830?v=4" title="NombreAf" width="50" height="50"></a>
