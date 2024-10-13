@@ -72,8 +72,8 @@ Aquí podrás encontrar una variedad de recursos y proyectos, incluyendo, pero n
 
 Si deseas ponerte en contacto con nosotros, puedes hacerlo a través de los siguientes medios:
 
-- Correo Electrónico: info@politecnicoybarra.edu
-- Sitio Web: [www.politecnicoybarra.edu](http://www.politecnicoybarra.edu)
-- Redes Sociales: [Twitter](https://twitter.com/politecnicoybarra) | [Facebook](https://www.facebook.com/politecnicoybarra) | [Instagram](https://www.instagram.com/politecnicoybarra)
+- Correo Electrónico: info@pomaray.edu.do
+- Sitio Web: [www.pomaray.edu.do](http://www.pomaray.edu.do)
+- Redes Sociales: [Twitter](https://twitter.com/yoamoapomaray) | [Facebook](https://www.facebook.com/yoamoapomaray) | [Instagram](https://www.instagram.com/yoamoapomaray)
 
 ¡Gracias por tu interés en nuestro repositorio! Esperamos que encuentres recursos útiles y emocionantes proyectos para inspirarte y contribuir al mundo de la educación y la tecnología.
