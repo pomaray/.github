@@ -58,6 +58,10 @@ Aquí podrás encontrar una variedad de recursos y proyectos, incluyendo, pero n
 
 ## Contribuidores
 
+<a href="https://github.com/pomaray/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pomaray" />
+</a>
+
 [//]: contributor-faces
 <a href="https://github.com/Aethan-oss"><img src="https://avatars.githubusercontent.com/u/147565202?v=4" title="Aethan-oss" width="50" height="50"></a>
 <a href="https://github.com/Almarante12"><img src="https://avatars.githubusercontent.com/u/149071635?v=4" title="Almarante12" width="50" height="50"></a>
